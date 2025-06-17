@@ -4,7 +4,7 @@ This repository is dedicated to hosting official APK releases of MAXDEV applicat
 
 ## 🔽 Download
 
-You can download the latest APK release from [https://maxdev.cadychi.workers.dev/app](https://maxdev.cadychi.workers.dev/app).
+You can download our latest APK release from https://maxdev.cadychi.workers.dev/app.
 
 - All APKs provided here are **official** and **unaltered**.
 - Ensure "Install from unknown sources" is enabled in your Android settings.
@@ -13,4 +13,4 @@ You can download the latest APK release from [https://maxdev.cadychi.workers.dev
 
 MAXDEV is focused on building innovative and practical mobile applications across iOS and Android platforms.
 
-Visit our website: [https://maxdev.cadychi.workers.dev](https://maxdev.cadychi.workers.dev)
+Visit our website: https://maxdev.cadychi.workers.dev
